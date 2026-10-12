@@ -1,5 +1,5 @@
 # homework_submit
-
+# Tier 1
 ## repo link
 GitHub repo link:https://github.com/ZZZTY-z/stablecoin-lab-2026
 ## Screenshots
@@ -61,6 +61,12 @@ Legend / Key Annotations:
 - PAUSER_ROLE can pause all balance changes, including redemption (see B1).
 - Invariant: totalCollateral() >= totalSupply() ensures every sUSD is backed 1:1 by USDC in the Vault.
 
+# Tier 2
+## Tier 2 — Sepolia deployment
+
+- MockUSDC: 0x0AF0B49fa266C8D759fCC97f5dC7cB3d8d28BAB5  https://sepolia.etherscan.io/address/0x0AF0B49fa266C8D759fCC97f5dC7cB3d8d28BAB5#code
+- SimpleStablecoin (sUSD): 0x4F678876668296f3401D0841785a92719d2A1ea6  https://sepolia.etherscan.io/address/0x4F678876668296f3401D0841785a92719d2A1ea6#code
+- Vault: 0x6d2a2f1Ee6746f75c92E1FD402459CF4cd9C8eC0  https://sepolia.etherscan.io/address/0x6d2a2f1Ee6746f75c92E1FD402459CF4cd9C8eC0#code
 
 # Lab 1 — How to Create a Stablecoin
 
